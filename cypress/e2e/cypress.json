@@ -1,0 +1,10 @@
+{
+    "reporter": "cypress-mochawesome-reporter",
+    "reporterOptions": {
+      "reportDir": "cypress/downloads", 
+      "overwrite": false,
+      "html": false,
+      "json": true
+    }
+  }
+  
